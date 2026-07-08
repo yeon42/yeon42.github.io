@@ -9,9 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>NLP Lab, Hanyang University</p>
-    <p>Seoul, South Korea</p>
-    <p>jungyunye [at] hanyang.ac.kr</p>
+    <div class="profile-info">
+      <p>NLP Lab, Hanyang University</p>
+      <p>Seoul, Republic of Korea</p>
+      <p><a href="mailto:jungyunye@hanyang.ac.kr">jungyunye [at] hanyang.ac.kr</a></p>
+    </div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
