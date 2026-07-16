@@ -119,8 +119,8 @@ Seoul, South Korea — Mar 2018–Feb 2023
 ## **Teaching Experience**
 
 **Teaching Assistant**  
-Artificial Intelligence (Fall 2023)  
-Artificial Intelligence (Fall 2025)
+- Artificial Intelligence (Fall 2023)
+- Artificial Intelligence (Fall 2025)
 
 **Coding Instructor**  
 AI Bootcamp for Hyundai Motors — 2025
@@ -135,8 +135,8 @@ AI Bootcamp for Hyundai Motors — 2025
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) — 2026
 
 **Volunteer**  
-The 2024 Joint Conference on Human and Cognitive Language Technology, Korean Association for Corpus Linguistics (HCLT-KACL 2024)  
-International Conference on Machine Learning (ICML 2026)
+- The 2024 Joint Conference on Human and Cognitive Language Technology, Korean Association for Corpus Linguistics (HCLT-KACL 2024)
+- International Conference on Machine Learning (ICML 2026)
 
 
 ---
