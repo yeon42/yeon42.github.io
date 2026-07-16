@@ -9,11 +9,11 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <div class="profile-info">
-      <p>NLP Lab, Hanyang University</p>
-      <p>Seoul, Republic of Korea</p>
-      <p><a href="mailto:jungyunye@hanyang.ac.kr">jungyunye [at] hanyang.ac.kr</a></p>
-      <div class="profile-links" style="display: flex; gap: 0.75rem; align-items: center; margin-top: 0.75rem; font-size: 1.35rem;">
+    <div class="profile-info" style="font-family: inherit; margin-top: 1rem;">
+      <p style="font-size: 1.25rem; font-weight: 700; margin-bottom: 0.15rem;">Jungyeon Lee</p>
+      <p style="margin-bottom: 0.15rem;">Integrated M.S.–Ph.D. Student</p>
+      <p style="margin-bottom: 0;">@ NLP Lab, Hanyang University</p>
+      <div class="profile-links" style="display: flex; gap: 0.75rem; align-items: center; margin-top: 0.85rem; font-size: 1.35rem;">
         <a href="/assets/pdf/example_pdf.pdf" title="CV" aria-label="CV"><i class="ai ai-cv"></i></a>
         <a href="mailto:jungyunye@hanyang.ac.kr" title="Email" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
         <a href="https://inspirehep.net/authors/1010907" title="Inspire HEP" aria-label="Inspire HEP"><i class="ai ai-inspire"></i></a>
@@ -36,10 +36,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Integrated M.S.–Ph.D. student in Artificial Intelligence at Hanyang University, supervised by Prof. Taeuk Kim.
+## About Me
 
+Hi! I am an Integrated M.S.–Ph.D. student in Artificial Intelligence at Hanyang University, supervised by Prof. Taeuk Kim. My research focuses on evaluating and improving the reliability of language and multimodal models, especially when they must reason over knowledge that changes, conflicts, or appears across different sources and modalities.
 
-My research focuses on **LLM evaluation**, aiming to develop reliable methods for understanding the capabilities and limitations of language and multimodal models. I am especially interested in how models acquire, retrieve, integrate, and reason over knowledge when information is conflicting across contexts, sources, or modalities.
+Specifically, my research interests center on:
 
+- **LLM and multimodal model evaluation**, with an emphasis on robustness, reliability, and failure analysis.
+- **Knowledge conflict and retrieval-augmented generation (RAG)**, studying how models retrieve, integrate, and reason over conflicting information.
+- **Multimodal agent memory**, building evaluation frameworks for agents that maintain and use knowledge over time.
 
-My current work studies **knowledge conflict**, **retrieval-augmented generation**, **graph-based evaluation**, and **multimodal agent memory**. Through these topics, I aim to build evaluation frameworks that reveal when models are robust, when they fail, and what such failures tell us about their underlying reasoning behavior.
+Through these topics, I aim to build evaluation methods that reveal when models are robust, when they fail, and what such failures tell us about their underlying reasoning behavior.
