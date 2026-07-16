@@ -22,7 +22,7 @@ profile:
       </div>
     </div>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 
 announcements:
@@ -71,6 +71,10 @@ Specifically, my research interests center on:
 - **Multimodal agent memory**, building evaluation frameworks for agents that maintain and use knowledge over time.
 
 Through these topics, I aim to build evaluation methods that reveal when models are robust, when they fail, and what such failures tell us about their underlying reasoning behavior.
+
+## **Selected Publications**
+
+{% include selected_papers.liquid %}
 
 ## **Education**
 
