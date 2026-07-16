@@ -62,6 +62,13 @@ latest_posts:
   article hr {
     margin: 2rem 0;
   }
+
+  .publications .author em {
+    font-style: normal;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.15em;
+  }
 </style>
 
 ## **About Me**

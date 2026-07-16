@@ -9,6 +9,15 @@ nav_order: 2
 
 <!-- _pages/publications.md -->
 
+<style>
+  .publications .author em {
+    font-style: normal;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.15em;
+  }
+</style>
+
 <!-- Bibsearch Feature -->
 
 {% include bib_search.liquid %}
