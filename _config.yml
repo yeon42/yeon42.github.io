@@ -341,8 +341,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Lee, "이정연"]
-  first_name: [Jungyeon, ""]
+  last_name: [Lee, "Lee*", "이정연"]
+  first_name: [Jungyeon, "Jungyeon*", ""]
 
   style: apa
   locale: en

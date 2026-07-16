@@ -68,6 +68,7 @@ latest_posts:
     margin: 2rem 0;
   }
 
+  .author em,
   .publications .author em {
     font-style: normal;
     text-decoration: underline;
@@ -92,7 +93,7 @@ Through these topics, I aim to build evaluation methods that reveal when models 
 ---
 
 
-## **Selected Publications** ([see all](/projects/))
+## **Selected Publications** ([see all](/publications/))
 
 {% include selected_papers.liquid %}
 

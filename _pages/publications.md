@@ -10,6 +10,7 @@ nav_order: 2
 <!-- _pages/publications.md -->
 
 <style>
+  .author em,
   .publications .author em {
     font-style: normal;
     text-decoration: underline;
