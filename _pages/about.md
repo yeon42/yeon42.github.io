@@ -7,18 +7,18 @@ subtitle: Integrated M.S.–Ph.D. Student in Artificial Intelligence, Hanyang Un
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <div class="profile-info" style="font-family: inherit; margin-top: 1rem;">
-      <p style="font-size: 1.25rem; font-weight: 700; margin-bottom: 0.15rem;">Jungyeon Lee</p>
+    <div class="profile-info" style="font-family: inherit; margin-top: 1.2rem; text-align: center;">
+      <p style="font-size: 1.7rem; font-weight: 700; margin-bottom: 0.35rem;">Jungyeon Lee</p>
       <p style="margin-bottom: 0.15rem;">Integrated M.S.–Ph.D. Student</p>
       <p style="margin-bottom: 0;">@ NLP Lab, Hanyang University</p>
-      <div class="profile-links" style="display: flex; gap: 0.75rem; align-items: center; margin-top: 0.85rem; font-size: 1.35rem;">
-        <a href="/assets/pdf/example_pdf.pdf" title="CV" aria-label="CV"><i class="ai ai-cv"></i></a>
-        <a href="mailto:jungyunye@hanyang.ac.kr" title="Email" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
-        <a href="https://inspirehep.net/authors/1010907" title="Inspire HEP" aria-label="Inspire HEP"><i class="ai ai-inspire"></i></a>
+      <div class="profile-links" style="display: flex; justify-content: center; gap: 0.85rem; align-items: center; margin-top: 1rem; font-size: 1.35rem; color: #8a8a8a;">
+        <span title="CV" aria-label="CV"><i class="ai ai-cv"></i></span>
+        <a href="mailto:jungyune@hanyang.ac.kr" title="Email" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
+        <a href="https://www.linkedin.com/in/jungyeon-lee-26b358244?utm_source=share_via&amp;utm_content=profile&amp;utm_medium=member_ios" title="LinkedIn" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
         <a href="/feed.xml" title="RSS Feed" aria-label="RSS Feed"><i class="fa-solid fa-square-rss"></i></a>
-        <a href="https://scholar.google.com/citations?user=qc6CJjYAAAAJ" title="Google Scholar" aria-label="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+        <a href="https://scholar.google.com/citations?user=dqSOCo8AAAAJ&amp;hl=ko&amp;oi=sra" title="Google Scholar" aria-label="Google Scholar"><i class="ai ai-google-scholar"></i></a>
       </div>
     </div>
 
@@ -36,9 +36,33 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-## About Me
+<style>
+  .post > .post-header {
+    display: none;
+  }
 
-Hi! I am an Integrated M.S.–Ph.D. student in Artificial Intelligence at Hanyang University, supervised by Prof. Taeuk Kim. My research focuses on evaluating and improving the reliability of language and multimodal models, especially when they must reason over knowledge that changes, conflicts, or appears across different sources and modalities.
+  .profile,
+  .profile figure,
+  .profile .more-info {
+    text-align: center;
+  }
+
+  .profile img {
+    aspect-ratio: 1 / 1;
+    border-radius: 50% !important;
+    object-fit: cover;
+  }
+
+  .profile-links a,
+  .profile-links span {
+    color: #8a8a8a !important;
+    text-decoration: none;
+  }
+</style>
+
+## **About Me**
+
+I am an Integrated **PhD candidate** in Artificial Intelligence at Hanyang University, supervised by [Prof. Taeuk Kim](https://sites.google.com/view/hyu-nlp/). My research focuses on evaluating and improving the reliability of language and multimodal models, especially when they must reason over knowledge that changes, conflicts, or appears across different sources and modalities.
 
 Specifically, my research interests center on:
 
