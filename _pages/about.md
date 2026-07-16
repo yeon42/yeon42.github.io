@@ -79,7 +79,7 @@ Seoul, South Korea — Mar 2023–Present
 Hanyang University NLP Lab. Advisor: Taeuk Kim.
 
 **Exchange Student, Computer Science — Deakin University**  
-Melbourne, Australia — Mar 2020–Aug 2023
+Melbourne, Australia — Mar 2020–Aug 2020
 
 **B.A. Information Technology Engineering & Mathematics — Sookmyung Women’s University**  
 Seoul, South Korea — Mar 2018–Feb 2023
