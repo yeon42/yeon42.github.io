@@ -47,6 +47,11 @@ latest_posts:
     text-align: center;
   }
 
+  .profile .profile-info,
+  .profile .profile-info p {
+    font-family: Roboto, Arial, sans-serif !important;
+  }
+
   .profile img {
     aspect-ratio: 1 / 1;
     border-radius: 50% !important;
