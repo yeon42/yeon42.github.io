@@ -13,18 +13,25 @@ profile:
       <p>NLP Lab, Hanyang University</p>
       <p>Seoul, Republic of Korea</p>
       <p><a href="mailto:jungyunye@hanyang.ac.kr">jungyunye [at] hanyang.ac.kr</a></p>
+      <div class="profile-links" style="display: flex; gap: 0.75rem; align-items: center; margin-top: 0.75rem; font-size: 1.35rem;">
+        <a href="/assets/pdf/example_pdf.pdf" title="CV" aria-label="CV"><i class="ai ai-cv"></i></a>
+        <a href="mailto:jungyunye@hanyang.ac.kr" title="Email" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
+        <a href="https://inspirehep.net/authors/1010907" title="Inspire HEP" aria-label="Inspire HEP"><i class="ai ai-inspire"></i></a>
+        <a href="/feed.xml" title="RSS Feed" aria-label="RSS Feed"><i class="fa-solid fa-square-rss"></i></a>
+        <a href="https://scholar.google.com/citations?user=qc6CJjYAAAAJ" title="Google Scholar" aria-label="Google Scholar"><i class="ai ai-google-scholar"></i></a>
+      </div>
     </div>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -36,4 +43,3 @@ My research focuses on **LLM evaluation**, aiming to develop reliable methods fo
 
 
 My current work studies **knowledge conflict**, **retrieval-augmented generation**, **graph-based evaluation**, and **multimodal agent memory**. Through these topics, I aim to build evaluation frameworks that reveal when models are robust, when they fail, and what such failures tell us about their underlying reasoning behavior.
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
