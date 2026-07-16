@@ -96,8 +96,9 @@ Seoul, South Korea — Mar 2018–Feb 2023
 
 ## **Teaching Experience**
 
-**Teaching Assistant, Artificial Intelligence**  
-Fall 2023; Fall 2025
+**Teaching Assistant**  
+Artificial Intelligence (Fall 2023)  
+Artificial Intelligence (Fall 2025)
 
 **Coding Instructor**  
 AI Bootcamp for Hyundai Motors — 2025
@@ -110,17 +111,18 @@ AI Bootcamp for Hyundai Motors — 2025
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) — 2026
 
 **Volunteer**  
-HCLT-KACL — 2024; ICML — 2026
+The 2024 Joint Conference on Human and Cognitive Language Technology, Korean Association for Corpus Linguistics (HCLT-KACL 2024)  
+International Conference on Machine Learning (ICML 2026)
 
 ---
 
 ## **Awards and Honors**
 
 **Seoul Tech Scholarship**  
-2025-2
+Seoul Future Foundation — 2025
 
-**Department of Artificial Intelligence Scholarship, Hanyang University**  
-2023
+**Department of Artificial Intelligence Scholarship**  
+Hanyang University — 2023
 
 **KCC 2024 Outstanding Paper Award**  
 Korean Computer Congress (KCC) — Jun 2024
