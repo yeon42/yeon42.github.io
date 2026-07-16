@@ -71,3 +71,15 @@ Specifically, my research interests center on:
 - **Multimodal agent memory**, building evaluation frameworks for agents that maintain and use knowledge over time.
 
 Through these topics, I aim to build evaluation methods that reveal when models are robust, when they fail, and what such failures tell us about their underlying reasoning behavior.
+
+## **Education**
+
+**Integrated M.S.–Ph.D. Student, Computer Science — Hanyang University**  
+Seoul, South Korea — Mar 2023–Present  
+Hanyang University NLP Lab. Advisor: Taeuk Kim.
+
+**Exchange Student, Computer Science — Deakin University**  
+Melbourne, Australia — Mar 2020–Aug 2023
+
+**B.A. Information Technology Engineering & Mathematics — Sookmyung Women’s University**  
+Seoul, South Korea — Mar 2018–Feb 2023
