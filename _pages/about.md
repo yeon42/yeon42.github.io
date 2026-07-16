@@ -118,7 +118,7 @@ International Conference on Machine Learning (ICML 2026)
 
 ## **Awards and Honors**
 
-**Seoul Tech Scholarship**  
+**AI Seoul Tech Scholarship**  
 Seoul Future Foundation — 2025
 
 **Department of Artificial Intelligence Scholarship**  
