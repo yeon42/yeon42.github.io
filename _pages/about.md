@@ -71,9 +71,27 @@ latest_posts:
   .author em,
   .publications .author em {
     font-style: normal;
-    text-decoration: underline;
-    text-decoration-thickness: 1px;
+    text-decoration-line: underline !important;
+    text-decoration-style: solid !important;
+    text-decoration-thickness: 1px !important;
     text-underline-offset: 0.15em;
+    border-bottom: 0 !important;
+    box-shadow: none !important;
+    background-image: none !important;
+  }
+
+  .author a,
+  .publications .author a,
+  .author a:hover,
+  .publications .author a:hover,
+  .author em a,
+  .publications .author em a,
+  .author em a:hover,
+  .publications .author em a:hover {
+    text-decoration: none !important;
+    border-bottom: 0 !important;
+    box-shadow: none !important;
+    background-image: none !important;
   }
 </style>
 
@@ -93,7 +111,7 @@ Through these topics, I aim to build evaluation methods that reveal when models 
 ---
 
 
-## **Selected Publications** ([see all](/publications/))
+## **Selected Publications** ([see all]({{ '/publications/' | relative_url }}))
 
 {% include selected_papers.liquid %}
 
