@@ -72,9 +72,13 @@ Specifically, my research interests center on:
 
 Through these topics, I aim to build evaluation methods that reveal when models are robust, when they fail, and what such failures tell us about their underlying reasoning behavior.
 
+---
+
 ## **Selected Publications**
 
 {% include selected_papers.liquid %}
+
+---
 
 ## **Education**
 
@@ -88,6 +92,8 @@ Melbourne, Australia — Mar 2020–Aug 2020
 **B.A. Information Technology Engineering & Mathematics — Sookmyung Women’s University**  
 Seoul, South Korea — Mar 2018–Feb 2023
 
+---
+
 ## **Teaching Experience**
 
 **Teaching Assistant, Artificial Intelligence**  
@@ -96,6 +102,8 @@ Fall 2023; Fall 2025
 **Coding Instructor**  
 AI Bootcamp for Hyundai Motors — 2025
 
+---
+
 ## **Academic Services**
 
 **Reviewer**  
@@ -103,6 +111,8 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) — 2026
 
 **Volunteer**  
 HCLT-KACL — 2024; ICML — 2026
+
+---
 
 ## **Awards and Honors**
 
