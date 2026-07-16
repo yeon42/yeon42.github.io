@@ -12,7 +12,7 @@ profile:
     <div class="profile-info" style="font-family: inherit; margin-top: 1.2rem; text-align: center;">
       <p style="font-size: 1.7rem; font-weight: 700; margin-bottom: 0.35rem;">Jungyeon Lee</p>
       <p style="margin-bottom: 0.15rem;">Integrated M.S.–Ph.D. Student</p>
-      <p style="margin-bottom: 0;">@ NLP Lab, Hanyang University</p>
+      <p style="margin-bottom: 0;">@ <a href="https://sites.google.com/view/hyu-nlp/">NLP Lab</a>, Hanyang University</p>
       <div class="profile-links" style="display: flex; justify-content: center; gap: 0.85rem; align-items: center; margin-top: 1rem; font-size: 1.35rem; color: #8a8a8a;">
         <span title="CV" aria-label="CV"><i class="ai ai-cv"></i></span>
         <a href="mailto:jungyune@hanyang.ac.kr" title="Email" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
