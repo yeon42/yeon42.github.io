@@ -119,8 +119,12 @@ Seoul, South Korea — Mar 2018–Feb 2023
 ## **Teaching Experience**
 
 **Teaching Assistant**  
-- Artificial Intelligence (Fall 2023)
-- Artificial Intelligence (Fall 2025)
+- Artificial Intelligence — Fall 2023
+- Artificial Intelligence — Fall 2025
+
+**Course Support**  
+- Capstone Software Project — Fall 2023
+- Capstone Software Project — Spring 2024
 
 **Coding Instructor**  
 AI Bootcamp for Hyundai Motors — 2025
