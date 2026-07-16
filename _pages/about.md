@@ -80,7 +80,7 @@ Through these topics, I aim to build evaluation methods that reveal when models 
 ---
 
 
-## **Selected Publications**
+## **Selected Publications** ([see all](/projects/))
 
 {% include selected_papers.liquid %}
 
