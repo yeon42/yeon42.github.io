@@ -83,3 +83,30 @@ Melbourne, Australia — Mar 2020–Aug 2023
 
 **B.A. Information Technology Engineering & Mathematics — Sookmyung Women’s University**  
 Seoul, South Korea — Mar 2018–Feb 2023
+
+## **Teaching Experience**
+
+**Teaching Assistant, Artificial Intelligence**  
+Fall 2023; Fall 2025
+
+**Coding Instructor**  
+AI Bootcamp for Hyundai Motors — 2025
+
+## **Academic Services**
+
+**Reviewer**  
+IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) — 2026
+
+**Volunteer**  
+HCLT-KACL — 2024; ICML — 2026
+
+## **Awards and Honors**
+
+**Seoul Tech Scholarship**  
+2025-2
+
+**Department of Artificial Intelligence Scholarship, Hanyang University**  
+2023
+
+**KCC 2024 Outstanding Paper Award**  
+Korean Computer Congress (KCC) — Jun 2024
