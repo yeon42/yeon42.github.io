@@ -77,6 +77,11 @@ latest_posts:
     font-weight: 700;
   }
 
+  .education-note {
+    color: #8a8a8a;
+    font-size: 0.92rem;
+  }
+
   .author em,
   .publications .author em {
     font-style: normal;
@@ -126,9 +131,9 @@ Through these topics, I aim to build evaluation methods that reveal when models 
 
 ## **Education**
 
-**Integrated M.S.–Ph.D. Student, Computer Science**<br>
+**Integrated M.S.–Ph.D. Student, Artificial Intelligence**<br>
 Hanyang University — Mar 2023–Present<br>
-HYU NLP Lab. Advisor: Taeuk Kim.
+<span class="education-note">HYU NLP Lab. Advisor: Taeuk Kim.</span>
 
 **B.A. Information Technology Engineering / B.A. Mathematics**<br>
 Sookmyung Women’s University — Mar 2018–Feb 2023
