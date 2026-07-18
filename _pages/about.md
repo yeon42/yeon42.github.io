@@ -68,6 +68,15 @@ latest_posts:
     margin: 2rem 0;
   }
 
+  article h2 {
+    font-size: 1.55rem;
+  }
+
+  .profile-role {
+    font-size: 1.08rem;
+    font-weight: 700;
+  }
+
   .author em,
   .publications .author em {
     font-style: normal;
@@ -134,15 +143,15 @@ Sookmyung Women’s University — Mar 2018–Feb 2023
 
 ## **Teaching Experience**
 
-**Teaching Assistant**  
-- Artificial Intelligence — Fall 2023
-- Artificial Intelligence — Fall 2025
+<span class="profile-role">Teaching Assistant</span><br>
+Artificial Intelligence — Fall 2023<br>
+Artificial Intelligence — Fall 2025
 
-**Course Support**  
-- Capstone Software Project — Fall 2023
-- Capstone Software Project — Spring 2024
+<span class="profile-role">Course Support</span><br>
+Capstone Software Project — Fall 2023<br>
+Capstone Software Project — Spring 2024
 
-**Coding Instructor**  
+<span class="profile-role">Coding Instructor</span><br>
 AI Bootcamp for Hyundai Motors — 2025
 
 
@@ -151,12 +160,12 @@ AI Bootcamp for Hyundai Motors — 2025
 
 ## **Academic Services**
 
-**Reviewer**  
+<span class="profile-role">Reviewer</span><br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) — 2026
 
-**Volunteer**  
-- The 2024 Joint Conference on Human and Cognitive Language Technology, Korean Association for Corpus Linguistics (HCLT-KACL 2024)
-- International Conference on Machine Learning (ICML 2026)
+<span class="profile-role">Volunteer</span><br>
+The 2024 Joint Conference on Human and Cognitive Language Technology, Korean Association for Corpus Linguistics (HCLT-KACL 2024)<br>
+International Conference on Machine Learning (ICML 2026)
 
 
 ---
