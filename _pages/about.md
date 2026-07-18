@@ -74,7 +74,7 @@ latest_posts:
 
   .profile-role {
     font-size: 1.08rem;
-    font-weight: 700;
+    font-weight: 600;
   }
 
   .education-note {
@@ -162,7 +162,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) — 2026
 
 <span class="profile-role">Volunteer</span><br>
 The 2024 Joint Conference on Human and Cognitive Language Technology, Korean Association for Corpus Linguistics (HCLT-KACL 2024)<br>
-International Conference on Machine Learning (ICML 2026)
+Forty-Third International Conference on Machine Learning (ICML 2026)
 
 ---
 
