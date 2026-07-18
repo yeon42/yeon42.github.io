@@ -82,6 +82,13 @@ latest_posts:
     font-size: 0.92rem;
   }
 
+  .publication-link {
+    display: inline-block;
+    font-size: 0.9rem;
+    font-weight: 400;
+    margin-top: 0.15rem;
+  }
+
   .author em,
   .publications .author em {
     font-style: normal;
