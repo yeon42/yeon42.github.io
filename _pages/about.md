@@ -97,7 +97,7 @@ latest_posts:
 
 ## **About Me**
 
-I am an Integrated **PhD candidate** in Artificial Intelligence at Hanyang University, supervised by [Prof. Taeuk Kim](https://sites.google.com/view/hyu-nlp/). My research focuses on evaluating and improving the reliability of language and multimodal models, especially when they must reason over knowledge that changes, conflicts, or appears across different sources and modalities.
+👋 Hi, I am an Integrated **PhD candidate** in Artificial Intelligence at Hanyang University, supervised by [Prof. Taeuk Kim](https://sites.google.com/view/hyu-nlp/). My research focuses on evaluating and improving the reliability of language and multimodal models, especially when they must reason over knowledge that changes, conflicts, or appears across different sources and modalities.
 
 Specifically, my research interests center on:
 
@@ -121,15 +121,12 @@ Through these topics, I aim to build evaluation methods that reveal when models 
 
 ## **Education**
 
-**Integrated M.S.–Ph.D. Student, Computer Science — Hanyang University**  
-Seoul, South Korea — Mar 2023–Present  
-Hanyang University NLP Lab. Advisor: Taeuk Kim.
+**Integrated M.S.–Ph.D. Student, Computer Science**<br>
+Hanyang University — Mar 2023–Present<br>
+HYU NLP Lab. Advisor: Taeuk Kim.
 
-**Exchange Student, Computer Science — Deakin University**  
-Melbourne, Australia — Mar 2020–Aug 2020
-
-**B.A. Information Technology Engineering & Mathematics — Sookmyung Women’s University**  
-Seoul, South Korea — Mar 2018–Feb 2023
+**B.A. Information Technology Engineering / B.A. Mathematics**<br>
+Sookmyung Women’s University — Mar 2018–Feb 2023
 
 
 ---
