@@ -6,7 +6,7 @@ subtitle: Integrated M.S.–Ph.D. Student in Artificial Intelligence, Hanyang Un
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_2026.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
     <div class="profile-info" style="font-family: inherit; margin-top: 1.2rem; text-align: center;">
