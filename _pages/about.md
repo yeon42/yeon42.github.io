@@ -116,17 +116,13 @@ Specifically, my research interests center on:
 
 Through these topics, I aim to build evaluation methods that reveal when models are robust, when they fail, and what such failures tell us about their underlying reasoning behavior.
 
-
 ---
-
 
 ## **Selected Publications** ([see all]({{ '/publications/' | relative_url }}))
 
 {% include selected_papers.liquid %}
 
-
 ---
-
 
 ## **Education**
 
@@ -137,9 +133,7 @@ HYU NLP Lab. Advisor: Taeuk Kim.
 **B.A. Information Technology Engineering / B.A. Mathematics**<br>
 Sookmyung Women’s University — Mar 2018–Feb 2023
 
-
 ---
-
 
 ## **Teaching Experience**
 
@@ -154,9 +148,7 @@ Capstone Software Project — Spring 2024
 <span class="profile-role">Coding Instructor</span><br>
 AI Bootcamp for Hyundai Motors — 2025
 
-
 ---
-
 
 ## **Academic Services**
 
@@ -167,9 +159,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) — 2026
 The 2024 Joint Conference on Human and Cognitive Language Technology, Korean Association for Corpus Linguistics (HCLT-KACL 2024)<br>
 International Conference on Machine Learning (ICML 2026)
 
-
 ---
-
 
 ## **Awards and Honors**
 
