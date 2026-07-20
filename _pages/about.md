@@ -82,11 +82,13 @@ latest_posts:
     font-size: 0.92rem;
   }
 
-  .publication-link {
-    display: inline-block;
-    font-size: 0.9rem;
-    font-weight: 400;
-    margin-top: 0.15rem;
+  .publication-title-link,
+  .publication-title-link:hover {
+    color: inherit;
+    text-decoration: none !important;
+    border-bottom: 0 !important;
+    box-shadow: none !important;
+    background-image: none !important;
   }
 
   .author em,

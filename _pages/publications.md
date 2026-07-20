@@ -36,11 +36,13 @@ nav_order: 2
     background-image: none !important;
   }
 
-  .publication-link {
-    display: inline-block;
-    font-size: 0.9rem;
-    font-weight: 400;
-    margin-top: 0.15rem;
+  .publication-title-link,
+  .publication-title-link:hover {
+    color: inherit;
+    text-decoration: none !important;
+    border-bottom: 0 !important;
+    box-shadow: none !important;
+    background-image: none !important;
   }
 </style>
 
