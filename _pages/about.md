@@ -56,6 +56,7 @@ latest_posts:
     aspect-ratio: 1 / 1;
     border-radius: 50% !important;
     object-fit: cover;
+    object-position: 42% center;
   }
 
   .profile-links a,
@@ -120,7 +121,7 @@ latest_posts:
 
 ## **About Me**
 
-Hi, I am a **Ph.D. candidate** in Artificial Intelligence at Hanyang University, supervised by [Prof. Taeuk Kim](https://sites.google.com/view/hyu-nlp/). My research focuses on evaluating and improving the reliability of language and multimodal models, especially when they must reason over knowledge that changes, conflicts, or appears across different sources and modalities.
+👋 Hi, I am a **Ph.D. candidate** in Artificial Intelligence at Hanyang University, supervised by [Prof. Taeuk Kim](https://sites.google.com/view/hyu-nlp/). My research focuses on evaluating and improving the reliability of language and multimodal models, especially when they must reason over knowledge that changes, conflicts, or appears across different sources and modalities.
 
 Specifically, my research interests center on:
 
