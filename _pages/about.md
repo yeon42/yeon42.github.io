@@ -14,7 +14,7 @@ profile:
       <p style="margin-bottom: 0.15rem;">Integrated M.S.–Ph.D. Student</p>
       <p style="margin-bottom: 0;">@ <a href="https://sites.google.com/view/hyu-nlp/">NLP Lab</a>, Hanyang University</p>
       <div class="profile-links" style="display: flex; justify-content: center; gap: 0.85rem; align-items: center; margin-top: 1rem; font-size: 1.35rem; color: #8a8a8a;">
-        <span title="CV" aria-label="CV"><i class="ai ai-cv"></i></span>
+        <a href="/assets/pdf/Jungyeon_Lee_CV.pdf" title="CV" aria-label="CV"><i class="ai ai-cv"></i></a>
         <a href="mailto:jungyune@hanyang.ac.kr" title="Email" aria-label="Email"><i class="fa-solid fa-envelope"></i></a>
         <a href="https://www.linkedin.com/in/jungyeon-lee-26b358244?utm_source=share_via&amp;utm_content=profile&amp;utm_medium=member_ios" title="LinkedIn" aria-label="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>
         <a href="/feed.xml" title="RSS Feed" aria-label="RSS Feed"><i class="fa-solid fa-square-rss"></i></a>
