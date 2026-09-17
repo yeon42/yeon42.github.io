@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: https://yeon42.github.io/assets/pdf/Jungyeon_Lee_CV.pdf
 title: CV
 nav: true
 nav_order: 5
