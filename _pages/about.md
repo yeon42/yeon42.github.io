@@ -121,15 +121,15 @@ latest_posts:
 
 ## **About Me**
 
-👋 Hi, I am a **Ph.D. candidate** in Artificial Intelligence at Hanyang University, supervised by [Prof. Taeuk Kim](https://sites.google.com/view/hyu-nlp/). My research focuses on evaluating and improving the reliability of language and multimodal models, especially when they must reason over knowledge that changes, conflicts, or appears across different sources and modalities.
+👋 Hi, I am a **Ph.D. candidate** in Artificial Intelligence at Hanyang University, supervised by [Prof. Taeuk Kim](https://sites.google.com/view/hyu-nlp/). My research focuses on reliable knowledge management for retrieval-augmented and agentic systems, particularly when knowledge changes, conflicts, or must be maintained across interactions.
 
 Specifically, my research interests center on:
 
-- **LLM and multimodal model evaluation**, with an emphasis on robustness, reliability, and failure analysis.
-- **Knowledge conflict and retrieval-augmented generation (RAG)**, studying how models retrieve, integrate, and reason over conflicting information.
-- **Multimodal agent memory**, building evaluation frameworks for agents that maintain and use knowledge over time.
+- **Retrieval-augmented generation (RAG) and knowledge conflict**, evaluating how models retrieve, integrate, and use evidence when sources disagree or change over time.
+- **Agentic memory**, studying how agents maintain and update long-term knowledge and use it appropriately across tasks and interactions.
+- **LLM evaluation and reliability**, with an emphasis on robustness, consistency, and failure analysis in knowledge-intensive tasks.
 
-Through these topics, I aim to build evaluation methods that reveal when models are robust, when they fail, and what such failures tell us about their underlying reasoning behavior.
+Through these topics, I aim to build more reliable AI systems that can maintain, update, and use evolving knowledge appropriately across tasks and interactions.
 
 ---
 
