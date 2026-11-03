@@ -182,8 +182,8 @@ Forty-Third International Conference on Machine Learning (ICML 2026)
 **AI Seoul Tech Scholarship**  
 Seoul Future Foundation — 2025
 
-**Department of Artificial Intelligence Scholarship**  
-Hanyang University — 2023
+**Department of Artificial Intelligence Scholarship (Full Scholarship)**<br>
+Hanyang University — 2023–2025
 
 **KCC 2024 Outstanding Paper Award**  
 Korean Computer Congress (KCC) — Jun 2024
