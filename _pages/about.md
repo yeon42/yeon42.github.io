@@ -168,6 +168,7 @@ AI Bootcamp for Hyundai Motors — 2025
 ## **Academic Services**
 
 <span class="profile-role">Reviewer</span><br>
+ACL Rolling Review (ARR) — 2026<br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI) — 2026
 
 <span class="profile-role">Volunteer</span><br>
